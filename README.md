@@ -1,14 +1,3 @@
-### Olá, eu sou a Beturba👋
-
-
-- 🔭 A procura da primeira oportunidade para trabalhar como front-end
-- 🌱 Estudando HTML,CSS,javascript e Kotlin
-- 📫 Você pode me encontrar pelo email: contatobeturba@gmail.com
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Sou historiadora por formação e tenho 2 ratinhos de estimação ( O José Armando e o Rogerio Miguel)
--->
-
-
 
 ## Oiii eu sou a Beatriz Turba!
 <div align="center">
